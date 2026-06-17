@@ -1,0 +1,42 @@
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+       
+    List<List<Integer>> res = new ArrayList<>(); 
+    Arrays.sort(nums);//sorting the array will make the process easy
+
+        for(int i=0; i< nums.length; i++){//fix 2 no and then find other 2 by 2 pointer
+            for(int j= i+1; j< nums.length; j++){
+                int k= j+1;
+                int l= nums.length-1;
+
+                if(i >0 && nums[i]== nums[i-1] || j> i + 1 && nums[j]== nums[j-1]){
+                    continue;//skiping any i or j duplicates
+                }
+
+            while(k <l){
+                long total= (long)nums[i]+ nums[j]+ nums[k]+ nums[l];
+
+                if(total < target){
+                    k++;
+                }else if(total > target){
+                    l--;
+
+                } else{
+                    res.add(Arrays.asList(nums[i], nums[j], nums[k], nums[l]));
+                    k++;
+                    l--;
+
+                    while( k< l && nums[k] == nums[k-1]  ){
+                        k++;//skip duplicate k
+                    }
+                    while( k< l && nums[l] == nums[l+1]  ){
+                        l--;//skip duplicate l
+                    }
+                }
+              }
+           }
+        }
+        return res;
+    }
+}
+//tc :- sorting:- O(nlogn) and for i and j loop o(n^2) and for k and l O(n), final tc= O(n^3), sc= O(1) 
