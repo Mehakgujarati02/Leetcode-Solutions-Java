@@ -9,4 +9,4 @@ class Solution {
         }
         return profit;
     }
-}
+}//tc:- O(n), sc:- O(1)
