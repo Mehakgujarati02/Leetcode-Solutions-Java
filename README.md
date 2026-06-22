@@ -10,6 +10,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,4 +19,9 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
