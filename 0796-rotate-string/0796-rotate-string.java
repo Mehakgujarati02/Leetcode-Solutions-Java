@@ -10,4 +10,5 @@ class Solution {
         }
         return false;
     }
-}
+}//tc:- for str ,O(n^2) and for goal O(n), therefore O(n^2)
+// sc:- O(s+ s)= O(2s)= O(2n)= O(n)
