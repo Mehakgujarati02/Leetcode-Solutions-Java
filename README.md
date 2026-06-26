@@ -13,6 +13,7 @@ stay tuned!!!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@ stay tuned!!!!
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 ## String Matching
 |  |
 | ------- |
