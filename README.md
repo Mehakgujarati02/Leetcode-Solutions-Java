@@ -15,6 +15,7 @@ stay tuned!!!!
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ stay tuned!!!!
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ stay tuned!!!!
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1991-find-the-middle-index-in-array) |
 ## String Matching
 |  |
@@ -67,8 +70,10 @@ stay tuned!!!!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
