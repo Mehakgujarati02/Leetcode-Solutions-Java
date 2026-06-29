@@ -16,9 +16,9 @@ class Solution {
         }
 
         //if target is equal to 0 then need to remove all the elements
-        if(target == 0){
+       /* if(target == 0){
             return n;
-        }    
+        }  */   
 
         //now will use sliding window+ two pointer to get the longest subarray
         int left= 0;
@@ -40,4 +40,4 @@ class Solution {
 
         return longLen == -1? -1: n- longLen ;
     }
-}
+} //tc:- O(2n) = O(n) and sc:- O(1)
