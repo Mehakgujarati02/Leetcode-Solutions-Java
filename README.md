@@ -38,6 +38,7 @@ stay tuned!!!!
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -45,6 +46,7 @@ stay tuned!!!!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Counting
 |  |
@@ -72,6 +74,7 @@ stay tuned!!!!
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
