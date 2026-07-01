@@ -22,11 +22,13 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +39,7 @@ stay tuned!!!!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -44,6 +47,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
