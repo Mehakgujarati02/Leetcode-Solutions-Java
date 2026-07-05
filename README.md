@@ -55,6 +55,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
@@ -83,6 +84,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
@@ -105,4 +107,8 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
