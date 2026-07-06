@@ -14,15 +14,19 @@
  * }
  */
 class Solution {
-    List<Integer> list= new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        if(root== null) return list;
+        List<Integer> ans= new ArrayList<>();
+        inorder(root, ans);
+        return ans;
+    }
+
+    private void inorder(TreeNode root, List<Integer> ans){
+        if(root== null) return;
 
         //using recursion to get inorder traversal
-        inorderTraversal(root.left);
-        list.add(root.val);
-        inorderTraversal(root.right);
+        inorder(root.left, ans);
+        ans.add(root.val);
+        inorder(root.right, ans);
 
-        return list;
     }
-}//tc:- O(n) cuz traverse all the nodes once, total sc:- O(n) but auxilary space:- when balanced tree:- then O(long n) and if skewed the O(n)
+}//tc:- O(n) cuz traverse all the nodes once, total sc:- O(n) but auxilary space:- when balanced tree:- then O(long n) and if skewed the O(n), here it is optimized when comes to the tc but to make the space complexity better like O(1) we can use morris traversal, It avoids shared state between method calls and It's safer if the same Solution object is reused.
