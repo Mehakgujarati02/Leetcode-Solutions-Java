@@ -111,4 +111,20 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
