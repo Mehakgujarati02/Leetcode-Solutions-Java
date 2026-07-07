@@ -41,6 +41,7 @@ stay tuned!!!!
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ stay tuned!!!!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+| [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 ## Sliding Window
 |  |
@@ -138,4 +140,12 @@ stay tuned!!!!
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
