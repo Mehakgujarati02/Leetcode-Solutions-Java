@@ -22,6 +22,7 @@ stay tuned!!!!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1991-find-the-middle-index-in-array) |
+| [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ stay tuned!!!!
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 ## String
 |  |
 | ------- |
@@ -69,10 +71,12 @@ stay tuned!!!!
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -154,4 +158,8 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 <!---LeetCode Topics End-->
