@@ -30,6 +30,11 @@ class Solution {
 
                 TreeNode curr= q.poll(); //we only process the nodes that are in the queue
 
+                //when last node of the level, we'll add it to the queue
+                if(i == n-1){
+                    ans.add(curr.val);
+                }
+
                 if(curr.left != null){
                     q.offer(curr.left);
                 }
@@ -37,10 +42,6 @@ class Solution {
                     q.offer(curr.right);
                 }
 
-                //when last node of the level, we'll add it to the queue
-                if(i == n-1){
-                    ans.add(curr.val);
-                }
             }
         }
         return ans;  
