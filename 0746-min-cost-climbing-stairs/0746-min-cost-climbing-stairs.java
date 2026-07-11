@@ -1,7 +1,7 @@
 class Solution {
     public int minCostClimbingStairs(int[] cost) {
        //this is the dp approach, top down approach it is
-       int n= cost.length;
+        /* int n= cost.length;
         int[] dp= new int[n];
 
         //bses cases
@@ -12,6 +12,23 @@ class Solution {
             dp[i]= cost[i]+ Math.min(dp[i-1] , dp[i-2]);
 
         }
-        return Math.min(dp[n-1], dp[n-2]);
+        return Math.min(dp[n-1], dp[n-2]); */
+
+        //trying to space optimize it 
+        int n= cost.length;
+
+        if(n <= 1){
+            return 0;
+        }
+
+        int prev2= cost[0];
+        int prev1= cost[1];
+
+        for(int i=2; i< n; i++){
+            int curr= cost[i] + Math.min(prev2, prev1);
+            prev2= prev1;
+            prev1= curr;
+        }
+        return Math.min(prev2, prev1);
     }    
-} //tc:- 
+} 
