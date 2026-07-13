@@ -180,5 +180,6 @@ stay tuned!!!!
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1291-sequential-digits) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 <!---LeetCode Topics End-->
