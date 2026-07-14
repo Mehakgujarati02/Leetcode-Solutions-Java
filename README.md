@@ -174,6 +174,7 @@ stay tuned!!!!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -185,4 +186,8 @@ stay tuned!!!!
 | ------- |
 | [1291-sequential-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1291-sequential-digits) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
