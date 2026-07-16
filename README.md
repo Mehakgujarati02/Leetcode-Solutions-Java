@@ -11,6 +11,7 @@ stay tuned!!!!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
@@ -45,6 +46,7 @@ stay tuned!!!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
@@ -197,4 +199,8 @@ stay tuned!!!!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
