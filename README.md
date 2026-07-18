@@ -38,6 +38,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 ## Greedy
@@ -84,6 +85,7 @@ stay tuned!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
