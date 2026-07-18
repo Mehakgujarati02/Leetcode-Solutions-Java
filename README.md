@@ -12,6 +12,7 @@ stay tuned!!!!
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
@@ -134,6 +135,7 @@ stay tuned!!!!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
@@ -144,6 +146,7 @@ stay tuned!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
 ## Simulation
