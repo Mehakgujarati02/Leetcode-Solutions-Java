@@ -23,7 +23,7 @@ class Solution {
             // If there are more right parentheses than left, skip the current right parenthesis
             if (rightCount > leftCount) {
                 rightCount--; // Decrease right count
-                //continue;     // Skip processing this right parenthesis
+                continue;     // Skip processing this right parenthesis
             } else {
                 stack.push(currentChar); // Add valid parentheses to the stack
             }
