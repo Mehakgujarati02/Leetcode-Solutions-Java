@@ -69,6 +69,7 @@ stay tuned!!!!
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ stay tuned!!!!
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
+| [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
@@ -219,6 +221,7 @@ stay tuned!!!!
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
 ## Enumeration
 |  |
 | ------- |
