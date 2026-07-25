@@ -3,7 +3,7 @@ class Solution {
         int max1 = -1 , max2 = -1;
         while(n != 0){
             int rem = n % 10;
-            if(max1 < rem){
+            if(max1 <= rem){
                 max2 = max1;
                 max1 = rem;
             }
@@ -14,4 +14,4 @@ class Solution {
         }
         return max1 * max2;
     }
-}
+}//tc:- O(n), sc:- O(1)
