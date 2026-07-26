@@ -27,6 +27,7 @@ stay tuned!!!!
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -133,6 +134,7 @@ stay tuned!!!!
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -157,6 +159,7 @@ stay tuned!!!!
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
