@@ -14,4 +14,4 @@ class Solution {
         }
         return max1 * max2;
     }
-}//tc:- O(n), sc:- O(1)
+}//tc:- O(digits), sc:- O(1)
