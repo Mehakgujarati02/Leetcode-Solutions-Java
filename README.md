@@ -79,6 +79,7 @@ stay tuned!!!!
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -98,6 +99,7 @@ stay tuned!!!!
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
@@ -160,6 +162,7 @@ stay tuned!!!!
 | [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
