@@ -31,4 +31,4 @@ class Solution {
             return s.substring(left+ 1, right );
         } 
 
-}//tc:- O(n^2) as it expands for odd as well as even and sc:- O(1)
+}//tc:- O(n^2) as it expands for odd as well as even and sc:- O(n) because of substring method
