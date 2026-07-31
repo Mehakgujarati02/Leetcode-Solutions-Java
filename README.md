@@ -24,6 +24,7 @@ stay tuned!!!!
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
@@ -72,6 +73,7 @@ stay tuned!!!!
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
