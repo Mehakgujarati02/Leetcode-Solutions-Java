@@ -9,6 +9,7 @@ stay tuned!!!!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0040-combination-sum-ii) |
@@ -87,6 +88,7 @@ stay tuned!!!!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
