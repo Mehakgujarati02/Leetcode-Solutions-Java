@@ -24,6 +24,7 @@ stay tuned!!!!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
@@ -136,6 +137,7 @@ stay tuned!!!!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
