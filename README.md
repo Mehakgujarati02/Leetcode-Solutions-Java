@@ -311,4 +311,12 @@ stay tuned!!!!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
