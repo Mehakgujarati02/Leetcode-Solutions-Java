@@ -76,6 +76,7 @@ stay tuned!!!!
 | [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
@@ -115,6 +116,7 @@ stay tuned!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+| [0091-decode-ways](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
