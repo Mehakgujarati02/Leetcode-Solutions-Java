@@ -38,6 +38,7 @@ stay tuned!!!!
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -256,6 +257,7 @@ stay tuned!!!!
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
 ## Recursion
 |  |
@@ -301,6 +303,7 @@ stay tuned!!!!
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 ## Counting Sort
 |  |
 | ------- |
