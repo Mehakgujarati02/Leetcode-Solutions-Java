@@ -11,6 +11,7 @@ stay tuned!!!!
 | ------- |
 | [0001-two-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0046-permutations) |
@@ -184,6 +185,7 @@ stay tuned!!!!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
