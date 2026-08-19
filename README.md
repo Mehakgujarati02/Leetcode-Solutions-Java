@@ -11,6 +11,7 @@ stay tuned!!!!
 | ------- |
 | [0001-two-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
@@ -58,6 +59,7 @@ stay tuned!!!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
@@ -195,6 +197,7 @@ stay tuned!!!!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
