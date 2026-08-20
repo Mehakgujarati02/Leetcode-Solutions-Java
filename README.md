@@ -19,6 +19,7 @@ stay tuned!!!!!!
 | [0046-permutations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
@@ -227,6 +228,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -319,6 +321,7 @@ stay tuned!!!!!!
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 ## Counting Sort
