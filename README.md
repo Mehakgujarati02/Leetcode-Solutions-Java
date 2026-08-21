@@ -22,6 +22,7 @@ stay tuned!!!!!!
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
@@ -170,6 +171,7 @@ stay tuned!!!!!!
 | [0012-integer-to-roman](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
