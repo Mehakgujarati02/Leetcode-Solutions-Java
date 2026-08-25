@@ -36,6 +36,7 @@ stay tuned!!!!!!
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
@@ -114,6 +115,7 @@ stay tuned!!!!!!
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
