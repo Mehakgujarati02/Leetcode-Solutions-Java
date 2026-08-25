@@ -41,6 +41,7 @@ stay tuned!!!!!!
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ stay tuned!!!!!!
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
@@ -212,6 +214,7 @@ stay tuned!!!!!!
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -318,6 +321,7 @@ stay tuned!!!!!!
 | ------- |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
+| [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 ## Monotonic Stack
 |  |
 | ------- |
