@@ -50,6 +50,7 @@ stay tuned!!!!!!
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -120,6 +121,7 @@ stay tuned!!!!!!
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -217,6 +219,7 @@ stay tuned!!!!!!
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
@@ -336,6 +339,7 @@ stay tuned!!!!!!
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
