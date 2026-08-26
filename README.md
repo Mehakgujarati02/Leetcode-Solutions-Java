@@ -151,6 +151,7 @@ stay tuned!!!!!!
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 ## Counting
@@ -198,6 +199,7 @@ stay tuned!!!!!!
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
