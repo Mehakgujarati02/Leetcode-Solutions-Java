@@ -84,6 +84,7 @@ stay tuned!!!!!!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ stay tuned!!!!!!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -154,12 +156,14 @@ stay tuned!!!!!!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -308,6 +312,7 @@ stay tuned!!!!!!
 | ------- |
 | [1291-sequential-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1291-sequential-digits) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
