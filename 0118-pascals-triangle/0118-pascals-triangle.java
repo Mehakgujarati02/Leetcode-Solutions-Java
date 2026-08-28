@@ -1,5 +1,5 @@
 class Solution {
-    //using recursion
+    //using dp
     public List<List<Integer>> generate(int numRows) {
         if (numRows == 0) return new ArrayList<>();
         if (numRows == 1) {
@@ -22,4 +22,4 @@ class Solution {
         prevRows.add(newRow);
         return prevRows;
     }
-}
+}//tc:- O(n^2) and sc:- O(n^2)
