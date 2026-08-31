@@ -32,6 +32,7 @@ stay tuned!!!!!!
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
@@ -118,6 +119,7 @@ stay tuned!!!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -225,6 +227,7 @@ stay tuned!!!!!!
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
