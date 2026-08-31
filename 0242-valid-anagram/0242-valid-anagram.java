@@ -19,4 +19,4 @@ class Solution {
         }
         return true;
     }
-}
+}//tc:- 2O(n)= O(n) and sc:- O(n)
