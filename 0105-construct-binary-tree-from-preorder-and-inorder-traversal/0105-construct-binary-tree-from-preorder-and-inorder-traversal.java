@@ -23,7 +23,7 @@ class Solution {
             mapping.put(inorder[i], i);
         }
 
-       
+        preorderIndex = 0;
         return build(preorder, 0, inorder.length - 1);        
     }
 
@@ -39,4 +39,4 @@ class Solution {
 
         return root;
     }
-}//tn= O(n) and sc:- O(n)
+}//tc:- O(n) and sc:- O(n)
