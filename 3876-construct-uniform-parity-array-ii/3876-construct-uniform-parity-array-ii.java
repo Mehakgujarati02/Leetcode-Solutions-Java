@@ -3,7 +3,7 @@ class Solution {
         int smallestOdd = Integer.MAX_VALUE;
 
         for (int num : nums1) {
-            if (num % 2 == 1)
+            if (num % 2 != 0)
                 smallestOdd = Math.min(smallestOdd, num);
         }
 
@@ -19,4 +19,4 @@ class Solution {
 
         return true;
     }
-}
+}//tc:- 2O(n)= O(n) and sc:- O(1)
