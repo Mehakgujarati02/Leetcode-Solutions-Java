@@ -62,6 +62,7 @@ stay tuned!!!!!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -138,6 +139,7 @@ stay tuned!!!!!!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
@@ -262,6 +264,7 @@ stay tuned!!!!!!
 | ------- |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -334,6 +337,7 @@ stay tuned!!!!!!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -387,4 +391,16 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
