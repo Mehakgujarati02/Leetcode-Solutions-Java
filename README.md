@@ -147,6 +147,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
