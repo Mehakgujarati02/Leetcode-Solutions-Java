@@ -63,6 +63,7 @@ stay tuned!!!!!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
@@ -140,6 +141,7 @@ stay tuned!!!!!!
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -322,6 +324,7 @@ stay tuned!!!!!!
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -332,6 +335,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
