@@ -30,6 +30,7 @@ stay tuned!!!!!!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
@@ -125,6 +126,7 @@ stay tuned!!!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
@@ -410,4 +412,8 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
