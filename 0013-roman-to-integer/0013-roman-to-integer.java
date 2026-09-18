@@ -19,4 +19,4 @@ class Solution {
         }
         return res+= roman.get(s.charAt(s.length()-1));
     }
-}
+}//tc:- O(n) and sc:- O(1)
