@@ -31,6 +31,7 @@ stay tuned!!!!!!
 | [0118-pascals-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
@@ -369,6 +370,7 @@ stay tuned!!!!!!
 | ------- |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 ## Monotonic Stack
