@@ -1,6 +1,6 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int total= Arrays.stream(nums).sum();
+        int total= Arrays.stream(nums).sum();//here this is used to calculate the sum of all the elemnets in an array, tc:- O(n), sc:- O(1)
         if(total % 2 != 0) return false;
 
         int targetSum= total / 2;
