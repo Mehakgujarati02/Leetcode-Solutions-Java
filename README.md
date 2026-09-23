@@ -438,4 +438,12 @@ stay tuned!!!!!!
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1401-circle-and-rectangle-overlapping) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
