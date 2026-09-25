@@ -446,4 +446,8 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
