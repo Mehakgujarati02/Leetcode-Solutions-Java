@@ -171,6 +171,7 @@ stay tuned!!!!!!
 | [0796-rotate-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -284,6 +285,7 @@ stay tuned!!!!!!
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Tree
 |  |
@@ -450,4 +452,8 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
