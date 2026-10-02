@@ -30,6 +30,7 @@ stay tuned!!!!!!
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0136-single-number) |
@@ -110,6 +111,7 @@ stay tuned!!!!!!
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
