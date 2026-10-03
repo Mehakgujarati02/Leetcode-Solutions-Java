@@ -105,6 +105,7 @@ stay tuned!!!!!!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0055-jump-game) |
@@ -165,6 +166,7 @@ stay tuned!!!!!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
@@ -289,6 +291,7 @@ stay tuned!!!!!!
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -464,5 +467,6 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
