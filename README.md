@@ -100,6 +100,7 @@ stay tuned!!!!!!
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -187,6 +188,7 @@ stay tuned!!!!!!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3498-reverse-degree-of-a-string) |
@@ -306,6 +308,7 @@ stay tuned!!!!!!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Tree
 |  |
 | ------- |
@@ -482,6 +485,7 @@ stay tuned!!!!!!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bubble Sort
 |  |
 | ------- |
