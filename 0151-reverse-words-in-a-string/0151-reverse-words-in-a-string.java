@@ -17,4 +17,4 @@ class Solution {
         
         return result.toString();//result is stringbuilder so we convert it back to string
     }
-}
+}//tc:- O(n) and sc:- O(n)
