@@ -19,4 +19,4 @@ class Solution {
 
         return merged.toArray(new int[merged.size()][]);         
     }
-}
+}//tc:- O(n logn) and sc:- O(n)
