@@ -13,6 +13,7 @@ stay tuned!!!!!!
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
@@ -84,6 +85,7 @@ stay tuned!!!!!!
 | [0011-container-with-most-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
