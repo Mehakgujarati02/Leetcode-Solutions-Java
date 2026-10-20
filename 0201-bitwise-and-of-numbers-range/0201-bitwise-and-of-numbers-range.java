@@ -8,4 +8,4 @@ class Solution {
         }
         return (left << cnt);
     }
-}
+}//tc:- O(1) and sc:- O(1)
