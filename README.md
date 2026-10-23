@@ -75,6 +75,7 @@ stay tuned!!!!!!
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3875-construct-uniform-parity-array-i) |
@@ -412,6 +413,7 @@ stay tuned!!!!!!
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
