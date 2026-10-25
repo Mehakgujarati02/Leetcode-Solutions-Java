@@ -38,6 +38,7 @@ stay tuned!!!!!!
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
@@ -214,6 +215,7 @@ stay tuned!!!!!!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -251,6 +253,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -265,6 +268,7 @@ stay tuned!!!!!!
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2089-find-target-indices-after-sorting-array) |
