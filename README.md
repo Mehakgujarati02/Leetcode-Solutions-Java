@@ -18,6 +18,7 @@ stay tuned!!!!!!
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0047-permutations-ii) |
@@ -89,6 +90,7 @@ stay tuned!!!!!!
 | [0015-3sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
@@ -117,6 +119,7 @@ stay tuned!!!!!!
 | [0005-longest-palindromic-substring](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0055-jump-game) |
@@ -317,6 +320,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0678-valid-parenthesis-string) |
@@ -421,6 +425,7 @@ stay tuned!!!!!!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
