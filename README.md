@@ -518,5 +518,6 @@ stay tuned!!!!!!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
