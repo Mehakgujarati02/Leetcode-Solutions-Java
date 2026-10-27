@@ -515,4 +515,8 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
