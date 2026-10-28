@@ -82,6 +82,7 @@ stay tuned!!!!!!
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +141,7 @@ stay tuned!!!!!!
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -422,6 +424,7 @@ stay tuned!!!!!!
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -434,6 +437,7 @@ stay tuned!!!!!!
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
