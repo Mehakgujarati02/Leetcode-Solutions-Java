@@ -37,6 +37,7 @@ stay tuned!!!!!!
 | [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
@@ -95,6 +96,7 @@ stay tuned!!!!!!
 | [0075-sort-colors](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
 ## Greedy
@@ -273,6 +275,7 @@ stay tuned!!!!!!
 | [0004-median-of-two-sorted-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
