@@ -212,6 +212,7 @@ stay tuned!!!!!!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting
 |  |
 | ------- |
@@ -454,6 +455,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimax
 |  |
 | ------- |
@@ -470,6 +472,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -533,4 +536,8 @@ stay tuned!!!!!!
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1757-recyclable-and-low-fat-products) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
