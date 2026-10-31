@@ -80,6 +80,7 @@ stay tuned!!!!!!
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
+| [3665-twisted-mirror-path-count](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3731-find-missing-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -143,6 +144,7 @@ stay tuned!!!!!!
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -441,6 +443,7 @@ stay tuned!!!!!!
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
+| [3665-twisted-mirror-path-count](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
 |  |
