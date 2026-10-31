@@ -1,6 +1,7 @@
 class Solution {
     public int uniquePaths(int[][] grid) {
         final int mod = 1_000_000_007;
+        
         int[] down = new int[grid[0].length];  // ways to enter each cell from above
         down[0] = 1;
         for (int[] row : grid) {
