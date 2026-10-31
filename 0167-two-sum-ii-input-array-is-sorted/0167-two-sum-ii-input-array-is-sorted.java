@@ -19,4 +19,4 @@ class Solution {
         }
         return new int[]{};
     }
-}
+}//tc:- O(n) and sc:- O(1)
