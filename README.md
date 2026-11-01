@@ -50,6 +50,7 @@ stay tuned!!!!!!
 | [0435-non-overlapping-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
@@ -247,6 +248,7 @@ stay tuned!!!!!!
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
