@@ -9,11 +9,7 @@ class Solution {
         int midi= nums[n/ 2];
 
         for(int i =0; i< n; i++){
-            if(nums[i] < midi ){
-                ans += midi- nums[i];
-            }else{
-                ans += nums[i]- midi;
-            }
+            ans += Math.abs(midi- nums[i]);
         }
 
         return ans;
