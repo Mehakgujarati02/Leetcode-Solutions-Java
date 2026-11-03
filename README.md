@@ -135,6 +135,7 @@ stay tuned!!!!!!
 | [0118-pascals-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
@@ -196,6 +197,7 @@ stay tuned!!!!!!
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0316-remove-duplicate-letters) |
@@ -323,6 +325,7 @@ stay tuned!!!!!!
 | [0077-combinations](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0494-target-sum) |
 ## Simulation
 |  |
