@@ -18,6 +18,7 @@ class Solution {
         // The entire string has been partitioned.
         if (ind == s.length()) {
             ans.add(new ArrayList<>(temp));
+            return;
         }
 
         for (int i = ind; i < s.length(); i++) {
