@@ -56,7 +56,7 @@ class Solution {
 
         long[] best = new long[n ];  // best[i]: min ops for the windows placed so far inside nums[0..i)
         for (int j = 0; j < k; j++) {
-            long[] layer = new long[n + 1];
+            long[] layer = new long[n+ 1];
             Arrays.fill(layer, 0, x, Long.MAX_VALUE / 2);
             for (int i = x; i <= n; i++)
                 layer[i] = Math.min(layer[i - 1], best[i - x] + cost[i - x]);
