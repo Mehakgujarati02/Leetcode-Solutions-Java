@@ -68,6 +68,7 @@ stay tuned!!!!!!
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +105,7 @@ stay tuned!!!!!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -294,6 +296,7 @@ stay tuned!!!!!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -314,6 +317,7 @@ stay tuned!!!!!!
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
