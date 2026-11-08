@@ -65,6 +65,7 @@ stay tuned!!!!!!
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -232,6 +233,7 @@ stay tuned!!!!!!
 | ------- |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
@@ -380,6 +382,7 @@ stay tuned!!!!!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -403,6 +406,7 @@ stay tuned!!!!!!
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
 ## Recursion
 |  |
@@ -466,6 +470,7 @@ stay tuned!!!!!!
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [3665-twisted-mirror-path-count](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting Sort
@@ -512,6 +517,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
+| [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 ## Queue
 |  |
 | ------- |
