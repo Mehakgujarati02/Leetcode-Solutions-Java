@@ -577,6 +577,7 @@ stay tuned!!!!!!
 | [1661-average-time-of-process-per-machine](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1757-recyclable-and-low-fat-products) |
+| [1934-confirmation-rate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1934-confirmation-rate) |
 ## Shortest Path
 |  |
 | ------- |
