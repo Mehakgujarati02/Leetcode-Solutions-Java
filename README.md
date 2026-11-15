@@ -70,6 +70,7 @@ stay tuned!!!!!!
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1882-process-tasks-using-servers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1882-process-tasks-using-servers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -157,6 +158,7 @@ stay tuned!!!!!!
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -249,6 +251,7 @@ stay tuned!!!!!!
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1991-find-the-middle-index-in-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3364-minimum-positive-sum-subarray) |
@@ -275,6 +278,7 @@ stay tuned!!!!!!
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
