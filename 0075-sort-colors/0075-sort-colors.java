@@ -22,4 +22,5 @@ class Solution {
         nums[first] = nums[second];
         nums[second] = temp;
     }
-} //toatl tc :- O(n), sc =O(1)
+} 
+//toatl tc :- O(n), sc =O(1)
