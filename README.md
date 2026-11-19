@@ -37,6 +37,7 @@ stay tuned!!!!!!
 | [0128-longest-consecutive-sequence](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0137-single-number-ii) |
+| [0152-maximum-product-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
@@ -149,6 +150,7 @@ stay tuned!!!!!!
 | [0120-triangle](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0322-coin-change) |
