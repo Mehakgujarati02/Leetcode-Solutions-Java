@@ -62,6 +62,7 @@ stay tuned!!!!!!
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -111,6 +112,7 @@ stay tuned!!!!!!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0283-move-zeroes) |
 | [0763-partition-labels](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0763-partition-labels) |
+| [0905-sort-array-by-parity](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0905-sort-array-by-parity) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
@@ -332,6 +334,7 @@ stay tuned!!!!!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0905-sort-array-by-parity) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
