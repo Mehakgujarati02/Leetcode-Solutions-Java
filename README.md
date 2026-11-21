@@ -86,6 +86,7 @@ stay tuned!!!!!!
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
@@ -195,6 +196,7 @@ stay tuned!!!!!!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2747-count-zero-request-servers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -236,6 +238,7 @@ stay tuned!!!!!!
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
@@ -395,6 +398,7 @@ stay tuned!!!!!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0199-binary-tree-right-side-view) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,6 +409,7 @@ stay tuned!!!!!!
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Tree
 |  |
 | ------- |
