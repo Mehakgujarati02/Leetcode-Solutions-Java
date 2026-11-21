@@ -6,7 +6,7 @@ class Solution {
              int[] p, int[] last) {
         int c = s.charAt(u) - 'a', old = last[c];
 
-        if (u >= 0 && old != -1) p[u] = old;
+        if (u > 0 && old != -1) p[u] = old;
         last[c] = u;
 
         for (int v : adj[u])
