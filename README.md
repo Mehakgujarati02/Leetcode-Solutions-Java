@@ -62,6 +62,7 @@ stay tuned!!!!!!
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0905-sort-array-by-parity) |
@@ -322,6 +323,7 @@ stay tuned!!!!!!
 | [0035-search-insert-position](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-koko-eating-bananas](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
