@@ -2,7 +2,11 @@ class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         //using binary search here
         int min= 1;
-        int max= Arrays.stream(piles).max().getAsInt();
+        int max= 0;
+        for(int i= 0; i< piles.length; i++){
+            max= Math.max(max, piles[i]);
+        }
+
         int ans= min;
 
         while(min <=max){
