@@ -72,6 +72,7 @@ stay tuned!!!!!!
 | [1267-count-servers-that-communicate](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -263,6 +264,7 @@ stay tuned!!!!!!
 | [0560-subarray-sum-equals-k](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1991-find-the-middle-index-in-array) |
@@ -289,6 +291,7 @@ stay tuned!!!!!!
 | [0836-rectangle-overlap](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1137-n-th-tribonacci-number) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -614,4 +617,12 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
