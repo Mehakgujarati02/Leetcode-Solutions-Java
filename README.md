@@ -90,6 +90,7 @@ stay tuned!!!!!!
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -295,6 +296,7 @@ stay tuned!!!!!!
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -317,6 +319,7 @@ stay tuned!!!!!!
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Binary Search
 |  |
@@ -457,6 +460,7 @@ stay tuned!!!!!!
 | ------- |
 | [1291-sequential-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1291-sequential-digits) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3664-two-letter-card-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -470,6 +474,7 @@ stay tuned!!!!!!
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
