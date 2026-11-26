@@ -298,6 +298,7 @@ stay tuned!!!!!!
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3360-stone-removal-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3536-maximum-product-of-two-digits) |
@@ -383,6 +384,7 @@ stay tuned!!!!!!
 | [0043-multiply-strings](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/0054-spiral-matrix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mehakgujarati02/Leetcode-Solutions-Java/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
